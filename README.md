@@ -8,7 +8,7 @@
 ## About Me
 
 <ul>
-    <li><img width = '20px' src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-university-location-pins-soft-fill-soft-fill-juicy-fish.png"/>&nbsp; I'm Student, Becholor Degree / last year</li>
+    <li><img width = '20px' src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-university-location-pins-soft-fill-soft-fill-juicy-fish.png"/>&nbsp; I'm Student, Becholor Degree / Last year</li>
     <li><img width = "20px" src="https://img.icons8.com/external-konkapp-outline-color-konkapp/64/000000/external-programmer-profession-avatar-konkapp-outline-color-konkapp.png"/>&nbsp; Computer Engineering</li>
     <li><img width = '20px' src="https://img.icons8.com/external-victoruler-linear-colour-victoruler/64/000000/external-university-buildings-victoruler-linear-colour-victoruler.png"/>&nbsp; Azerbaijan Technical University</li>
     <li><img width = "20px" src="https://img.icons8.com/color/48/000000/home.png"/>&nbsp; From Azerbaijan and Living in Baku</li>
