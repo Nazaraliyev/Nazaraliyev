@@ -91,7 +91,7 @@
 
 <br/>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Nazaralieff&show_icons=false&theme=github_dark" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=Nazaraliyev&show_icons=false&theme=github_dark" alt="my github stats" width="49%"/>&nbsp;
 <img src = "http://github-readme-streak-stats.herokuapp.com?user=Nazaraliyev&theme=blueberry_duo&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&border=DDDDDD&stroke=4C8EDA&ring=4C8EDA&sideNums=4C8EDA&currStreakNum=4C8EDA&currStreakLabel=DDDDDD&sideLabels=DDDDDD&dates=DDDDDD" width = "49%"/> </p>
 <p align="center"><img width="100%" height = "200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazaraliyev&layout=compact&card_width=1000&theme=github_dark" /></p>
 
